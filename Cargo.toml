@@ -1,0 +1,9 @@
+[package]
+name = "cross-fs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+structopt = "0.3.26"
+strum = { version = "0.24", features = ["derive"] }
+text_io = "0.1.12"
